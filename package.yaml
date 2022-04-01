@@ -26,6 +26,10 @@ dependencies:
 - cryptonite
 - text
 - bytestring
+- async
+- mtl
+- transformers
+- network-uri
 
 library:
   source-dirs: src
