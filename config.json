@@ -1,0 +1,8 @@
+{
+    "server": {
+        "broker": "broker.emqx.io",
+        "port": 1883,
+        "channelIn":    "932f0a25-b19a-11ec-bf39-00e081c1611d_in",
+        "channelOut":    "932f0a25-b19a-11ec-bf39-00e081c1611d_out"
+    }
+}
